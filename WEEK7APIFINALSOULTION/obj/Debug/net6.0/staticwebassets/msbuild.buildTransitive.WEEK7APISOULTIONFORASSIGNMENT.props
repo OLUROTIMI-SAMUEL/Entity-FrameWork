@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WEEK7APISOULTIONFORASSIGNMENT.props" />
+</Project>

@@ -1,0 +1,174 @@
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\appsettings.json
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.exe
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.deps.json
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.runtimeconfig.json
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.pdb
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.csproj.AssemblyReference.cache
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.AssemblyInfo.cs
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\staticwebassets\msbuild.WEEK7APISOULTIONFORASSIGNMENT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\staticwebassets\msbuild.build.WEEK7APISOULTIONFORASSIGNMENT.props
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WEEK7APISOULTIONFORASSIGNMENT.props
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WEEK7APISOULTIONFORASSIGNMENT.props
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\scopedcss\bundle\WEEK7APISOULTIONFORASSIGNMENT.styles.css
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.csproj.CopyComplete
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\refint\WEEK7APISOULTIONFORASSIGNMENT.dll
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.pdb
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.genruntimeconfig.cache
+C:\Users\SAMUEL OLUROTIMI\Downloads\web\web\WEEK7APIFINALSOULTION\WEEK7APIFINALSOULTION\obj\Debug\net6.0\ref\WEEK7APISOULTIONFORASSIGNMENT.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\appsettings.Development.json
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\appsettings.json
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.exe
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.deps.json
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.runtimeconfig.json
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.pdb
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Azure.Core.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Azure.Identity.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Humanizer.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.CodeDom.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.Memory.Data.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.Text.Json.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.csproj.AssemblyReference.cache
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.AssemblyInfoInputs.cache
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.AssemblyInfo.cs
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.MvcApplicationPartsAssemblyInfo.cs
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.MvcApplicationPartsAssemblyInfo.cache
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\staticwebassets\msbuild.WEEK7APISOULTIONFORASSIGNMENT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\staticwebassets\msbuild.build.WEEK7APISOULTIONFORASSIGNMENT.props
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WEEK7APISOULTIONFORASSIGNMENT.props
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WEEK7APISOULTIONFORASSIGNMENT.props
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\staticwebassets.pack.json
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\staticwebassets.build.json
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\staticwebassets.development.json
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\scopedcss\bundle\WEEK7APISOULTIONFORASSIGNMENT.styles.css
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.csproj.CopyComplete
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\refint\WEEK7APISOULTIONFORASSIGNMENT.dll
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.pdb
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\WEEK7APISOULTIONFORASSIGNMENT.genruntimeconfig.cache
+C:\folder for decagon\DECAGON FILES AND LEARNING\week 7 document\FOLDER FOR WEEK 7ASSIGNMENT BY ME\WEEK7APIFINALSOULTION\obj\Debug\net6.0\ref\WEEK7APISOULTIONFORASSIGNMENT.dll
